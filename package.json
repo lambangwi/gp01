@@ -1,0 +1,17 @@
+{
+  "name": "gp01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ceknik.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "The Arrow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "howler": "^2.2.3",
+    "puppeteer": "^19.7.5"
+  }
+}
